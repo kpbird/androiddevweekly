@@ -4,6 +4,8 @@
 
 [Cyril Mottier](https://plus.google.com/118417777153109946393)
 
+[Brandon Nolte](https://plus.google.com/117325078274548669984)
+
 [Juhani Lehtimaki](https://plus.google.com/102272971619910906878)
 
 [Jeff Gilfelt](https://plus.google.com/104992412719307414985)
@@ -14,8 +16,18 @@
 
 [Mark Allison](https://plus.google.com/101161883485148457960)
 
----
+[Eric Burke](https://plus.google.com/107049228697365395345)
 
+[Guenther Beyer](https://plus.google.com/109726284197282147930)
+
+[Chris Banes](https://plus.google.com/103829716466878605055)
+
+[Jake Wharton](https://plus.google.com/108284392618554783657)
+
+[Marie Schweiz](https://plus.google.com/115374955104579332297)
+
+---
+[Adam Powell](https://plus.google.com/107708120842840792570)
 
 [Roman Nurik](https://plus.google.com/113735310430199015092)
 
@@ -30,3 +42,7 @@
 [Ian Ni-Lewis](https://plus.google.com/109486821799932251955)
 
 [Tor Norbye](https://plus.google.com/116539451797396019960)
+
+[Romain Guy](https://plus.google.com/111962077049890418486)
+
+[Kirill Grouchnikov](https://plus.google.com/108761828584265913206)
