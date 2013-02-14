@@ -8,6 +8,8 @@
 
 [Juhani Lehtimaki](https://plus.google.com/102272971619910906878)
 
+[Matthias Käppler](https://plus.google.com/u/0/112265135089213955243)
+
 [Jeff Gilfelt](https://plus.google.com/104992412719307414985)
 
 [Bruce Sutherland](https://plus.google.com/110915631735542360010)
@@ -20,13 +22,17 @@
 
 [Guenther Beyer](https://plus.google.com/109726284197282147930)
 
-[Chris Banes](https://plus.google.com/103829716466878605055)
-
 [Jake Wharton](https://plus.google.com/108284392618554783657)
 
 [Marie Schweiz](https://plus.google.com/115374955104579332297)
 
+[Alex Lockwood](https://plus.google.com/100751609891157863386)
+
+[Michael Galpin](https://plus.google.com/116207116265059961468)
+
 ---
+[Chris Banes](https://plus.google.com/103829716466878605055)
+
 [Adam Powell](https://plus.google.com/107708120842840792570)
 
 [Roman Nurik](https://plus.google.com/113735310430199015092)
